@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sunny Wholesale Products – Home Appliance Wholesale · Factory Direct</title>
-<meta name="description" content="Sunny Wholesale Products: factory-direct home appliances. Browse 2185 products, inquire via WhatsApp for wholesale price & MOQ.">
-<meta property="og:title" content="Sunny Wholesale Products – Home Appliance Wholesale">
+<title>LucyKitchen Wholesale Products – Home Appliance Wholesale · Factory Direct</title>
+<meta name="description" content="LucyKitchen Wholesale Products: factory-direct home appliances. Browse 2185 products, inquire via WhatsApp for wholesale price & MOQ.">
+<meta property="og:title" content="LucyKitchen Wholesale Products – Home Appliance Wholesale">
 <meta property="og:description" content="Factory direct home appliances. 2185 products. WhatsApp for price & MOQ.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://sunnywholesale.com">
+<meta property="og:url" content="https://www.lucykitchen.com">
 <meta property="og:image" content="https://i.ibb.co/yccqhNXp/470.png">
 <style>
 :root{--green:#0a7d3b;--green-dark:#08632f;--ink:#222;--muted:#666;--bg:#f7f8fa;--border:#eee}
@@ -58,7 +58,7 @@ footer a{text-decoration:none}footer a:hover{text-decoration:underline}
 </div>
 <header>
 <div>
-<h1>Sunny Wholesale Products</h1>
+<h1>LucyKitchen Wholesale Products</h1>
 <p id="subtitle">Home Appliance Wholesale · Factory Direct</p>
 </div>
 <div class="lang-switch">
@@ -81,7 +81,7 @@ footer a{text-decoration:none}footer a:hover{text-decoration:underline}
 <a class="lb-inquiry" id="lbInquiry" href="#" target="_blank" rel="noopener">💬 Inquiry on WhatsApp</a>
 </div>
 <footer>
-<p id="ftAddr">📍 Sunny Wholesale Products</p>
+<p id="ftAddr">📍 LucyKitchen Wholesale Products</p>
 <p>💬 WhatsApp: <a href="https://wa.me/8618105791688" target="_blank">+86 181 0579 1688</a></p>
 <p>📧 <a href="mailto:lucykitchen2024@gmail.com">lucykitchen2024@gmail.com</a></p>
 <p>📞 <a href="tel:+8618105791688">+86 181 0579 1688</a></p>
@@ -2293,26 +2293,26 @@ const NAMES_ZH = {
 /* ===================== 中英文案配置 ===================== */
 const I18N = {
   en: {
-    title: "Sunny Wholesale Products – Home Appliance Wholesale · Factory Direct",
+    title: "LucyKitchen Wholesale Products – Home Appliance Wholesale · Factory Direct",
     subtitle: "Home Appliance Wholesale · Factory Direct",
     search: "Search by product No. (e.g. 470, 388...)",
     loadMore: "Load more",
     inquiry: "Inquiry",
     lbInquiry: "💬 Inquiry on WhatsApp",
     noResult: "No matching products",
-    ftAddr: "📍 Sunny Wholesale Products",
+    ftAddr: "📍 LucyKitchen Wholesale Products",
     waMsg: no => `Hello, I'm interested in Product #${no}. Please send me the wholesale price and MOQ. Thank you.`,
     fallbackName: no => `Product #${no}`
   },
   zh: {
-    title: "Sunny Wholesale Products – 家电批发 · 工厂直供",
+    title: "LucyKitchen Wholesale Products – 家电批发 · 工厂直供",
     subtitle: "小家电批发 · 工厂直供",
     search: "按产品编号搜索（如 470、388...）",
     loadMore: "加载更多",
     inquiry: "询价",
     lbInquiry: "💬 WhatsApp 询盘",
     noResult: "没有找到匹配的产品",
-    ftAddr: "📍 Sunny Wholesale Products 家电批发",
+    ftAddr: "📍 LucyKitchen Wholesale Products 家电批发",
     waMsg: no => `您好，我对 #${no} 号产品感兴趣，请报批发价和最小起订量（MOQ），谢谢！`,
     fallbackName: no => `产品 #${no}`
   }
