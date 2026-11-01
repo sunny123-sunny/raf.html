@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">   <!-- ← 加这一行 -->
 <title>LucyKitchen — Factory Direct Wholesale</title>
 <style>
   :root{
